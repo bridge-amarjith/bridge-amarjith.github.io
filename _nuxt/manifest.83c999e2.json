@@ -1,10 +1,10 @@
 {
-  "name": "Nuxt PWA App",
-  "short_name": "nuxt-pwa",
+  "name": "Nuxt.js PWAs are so easy",
+  "short_name": "Nuxt.js PWA",
   "description": "## Build Setup",
   "icons": [],
   "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
-  "lang": "fa"
+  "lang": "en"
 }

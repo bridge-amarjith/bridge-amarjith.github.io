@@ -23,5 +23,5 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "orientation": "portrait-primary",
-  "prefer_related_applications": false,
+  "prefer_related_applications": false
 }

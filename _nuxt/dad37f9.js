@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{318:function(n,l,t){"use strict";t.r(l);var c={},e=t(60),component=Object(e.a)(c,(function(){return(0,this._self._c)("div",[this._v("\n  claim policy\n")])}),[],!1,null,null,null);l.default=component.exports}}]);
